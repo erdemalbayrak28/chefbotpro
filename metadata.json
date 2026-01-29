@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ChefBot Pro",
+  "description": "An advanced AI-powered recipe assistant that helps you discover dishes based on ingredients you have, featuring real-time chat and visual ingredient recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
